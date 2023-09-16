@@ -1,11 +1,13 @@
 import java.util.Scanner;
 
-public class CVE20Ex01 {
+public class CWE20ex01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Please enter your age: ");
         String ageInput = scanner.nextLine();
+
+        scanner.close();
 
         // This part of the code doesn't validate the input properly, which can
         // lead to improper behavior of the program
