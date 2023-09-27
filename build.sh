@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Navigate to the project directory
 # cd /path/to/your/project
 
