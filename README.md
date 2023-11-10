@@ -8,4 +8,4 @@ Testing 2 AWS Access Key and Secret Access Key
 Access Key ID: AKIAIOSFODNN7EXAMPLE
 Secret Access Key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 
-
+Testing 3 Personal Access Token.
